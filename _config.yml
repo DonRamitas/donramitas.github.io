@@ -1,32 +1,5 @@
-title: Mi Proyecto Pulento 🚀
-description: Documentación oficial y recursos de Mi Proyecto
-theme: just-the-docs
-
-# Dirección base si tu repo no está en la raíz
-# Si tu repo es "https://github.com/tuusuario/miproyecto", usa esto:
-baseurl: "/miproyecto"
-
-# URL completa del sitio (opcional pero recomendado)
-url: "https://tuusuario.github.io"
-
-# Mostrar búsqueda (funciona muy bien con Just the Docs)
-search_enabled: true
-
-# Navegación en la barra lateral
-nav_sort: case_insensitive
+title: Nego Project
+theme: jekill-theme-architect
 
 # Colores del tema
 color_scheme: dark  # Puedes usar: light, dark, medium
-
-# Mostrar última modificación en los archivos
-last_edit_timestamp: true
-last_edit_time_format: "%d/%m/%Y"
-
-# Footer personalizado (si lo deseas)
-footer_content: "Hecho con 💻 y café por [@tuusuario](https://github.com/tuusuario)"
-
-# Favicon (opcional)
-favicon_ico: "/assets/favicon.ico"
-
-# Inclusión de Google Analytics (opcional)
-# ga_tracking: UA-XXXXXXXXX-X
